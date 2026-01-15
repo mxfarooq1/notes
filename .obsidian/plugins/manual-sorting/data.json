@@ -1,0 +1,279 @@
+{
+  "customFileOrder": {
+    "/": [
+      "NYLifeandHealth",
+      "Intro",
+      "RESP",
+      "Training",
+      "Untitled"
+    ],
+    "Intro": [
+      "Intro/business.png",
+      "Intro/canada.png",
+      "Intro/Training.md",
+      "Intro/usa.png"
+    ],
+    "NYLifeandHealth": [
+      "NYLifeandHealth/Chapter16",
+      "NYLifeandHealth/Chapter15",
+      "NYLifeandHealth/Chapter_Index",
+      "NYLifeandHealth/Chapter1",
+      "NYLifeandHealth/Chapter2",
+      "NYLifeandHealth/Chapter3",
+      "NYLifeandHealth/Chapter4",
+      "NYLifeandHealth/Chapter5",
+      "NYLifeandHealth/Chapter7",
+      "NYLifeandHealth/Chapter6",
+      "NYLifeandHealth/Chapter8",
+      "NYLifeandHealth/Chapter9",
+      "NYLifeandHealth/Chapter10",
+      "NYLifeandHealth/Chapter11",
+      "NYLifeandHealth/Chapter12",
+      "NYLifeandHealth/Chapter13",
+      "NYLifeandHealth/Chapter14",
+      "NYLifeandHealth/Misc",
+      "NYLifeandHealth/KeyFacts"
+    ],
+    "NYLifeandHealth/Chapter_Index": [
+      "NYLifeandHealth/Chapter_Index/Chapters1-9.png",
+      "NYLifeandHealth/Chapter_Index/Chapters10-18.png"
+    ],
+    "NYLifeandHealth/Chapter1": [
+      "NYLifeandHealth/Chapter1/Quiz",
+      "NYLifeandHealth/Chapter1/Intro.md",
+      "NYLifeandHealth/Chapter1/A. Concepts.md",
+      "NYLifeandHealth/Chapter1/B. Insurers.md",
+      "NYLifeandHealth/Chapter1/C. Agents and General Rules of Agency.md",
+      "NYLifeandHealth/Chapter1/Chapter Recap.md",
+      "NYLifeandHealth/Chapter1/D. Contracts.md"
+    ],
+    "NYLifeandHealth/Chapter1/Quiz": [
+      "NYLifeandHealth/Chapter1/Quiz/quiz1.png",
+      "NYLifeandHealth/Chapter1/Quiz/quiz2.png",
+      "NYLifeandHealth/Chapter1/Quiz/quiz3.png",
+      "NYLifeandHealth/Chapter1/Quiz/quiz4.png",
+      "NYLifeandHealth/Chapter1/Quiz/quiz5.png",
+      "NYLifeandHealth/Chapter1/Quiz/quiz6.png"
+    ],
+    "NYLifeandHealth/Chapter2": [
+      "NYLifeandHealth/Chapter2/E. Classes of Life Insurance.md",
+      "NYLifeandHealth/Chapter2/F. Process of Issuing a Life Insurance Policy.md",
+      "NYLifeandHealth/Chapter2/Terms.md",
+      "NYLifeandHealth/Chapter2/A. Insurable Interest.md",
+      "NYLifeandHealth/Chapter2/B. Personal Uses of Life Insurance.md",
+      "NYLifeandHealth/Chapter2/C. Amount of Personal Life Insurance.md",
+      "NYLifeandHealth/Chapter2/Chapter 2 Recap.md",
+      "NYLifeandHealth/Chapter2/D. Business Uses of Life Insurance.md"
+    ],
+    "NYLifeandHealth/Chapter3": [
+      "NYLifeandHealth/Chapter3/A. Term Life Insurance.md",
+      "NYLifeandHealth/Chapter3/B. Whole Life Insurance.md",
+      "NYLifeandHealth/Chapter3/C. Flexible Premium Policies.md",
+      "NYLifeandHealth/Chapter3/Chapter Recap.md",
+      "NYLifeandHealth/Chapter3/D. Variable Life.md",
+      "NYLifeandHealth/Chapter3/E. Specialized Policies.md",
+      "NYLifeandHealth/Chapter3/F. Credit Life Insurance.md",
+      "NYLifeandHealth/Chapter3/G. Group Life Insurance.md",
+      "NYLifeandHealth/Chapter3/Intro.md"
+    ],
+    "NYLifeandHealth/Chapter4": [
+      "NYLifeandHealth/Chapter4/Intro and Terms.md",
+      "NYLifeandHealth/Chapter4/A. Required Provisions.md",
+      "NYLifeandHealth/Chapter4/B. Beneficiaries.md",
+      "NYLifeandHealth/Chapter4/C. Policy Loan and Withdrawals.md",
+      "NYLifeandHealth/Chapter4/D. Riders.md",
+      "NYLifeandHealth/Chapter4/E. Options.md",
+      "NYLifeandHealth/Chapter4/Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter5": [
+      "NYLifeandHealth/Chapter5/Intro and Terms.md",
+      "NYLifeandHealth/Chapter5/A. Annuity Principles and Concepts.md",
+      "NYLifeandHealth/Chapter5/B. Required Provisions.md",
+      "NYLifeandHealth/Chapter5/C. Types of Annuities.md",
+      "NYLifeandHealth/Chapter5/D. Personal Uses of Annuities.md",
+      "NYLifeandHealth/Chapter5/Recap.md"
+    ],
+    "NYLifeandHealth/Chapter6": [
+      "NYLifeandHealth/Chapter6/Intro and Terms.md",
+      "NYLifeandHealth/Chapter6/A. General Requirements.md",
+      "NYLifeandHealth/Chapter6/B. Plan Types, Characteristics and Purchasers.md",
+      "NYLifeandHealth/Chapter6/Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter7": [
+      "NYLifeandHealth/Chapter7/1. Intro and Terms.md",
+      "NYLifeandHealth/Chapter7/A. Taxation of Personal Life Insurance.md",
+      "NYLifeandHealth/Chapter7/B. Taxation of Annuities.md",
+      "NYLifeandHealth/Chapter7/C. Taxation of Individual Retirement Annuities (IRAs).md",
+      "NYLifeandHealth/Chapter7/D. Rollovers and Transfers (IRAs and Qualified Plans).md",
+      "NYLifeandHealth/Chapter7/E. Section 1035 Exchanges.md",
+      "NYLifeandHealth/Chapter7/Z. Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter8": [
+      "NYLifeandHealth/Chapter8/Z. Chapter Recap.md",
+      "NYLifeandHealth/Chapter8/F. Stranger-Originated Life Insurance.md",
+      "NYLifeandHealth/Chapter8/E. Prohibited Practices.md",
+      "NYLifeandHealth/Chapter8/D. Privacy.md",
+      "NYLifeandHealth/Chapter8/C. Advertising.md",
+      "NYLifeandHealth/Chapter8/B. Broker License Requirements.md",
+      "NYLifeandHealth/Chapter8/A. Definitions.md",
+      "NYLifeandHealth/Chapter8/1. Intro and Terms.md"
+    ],
+    "NYLifeandHealth/Chapter9": [
+      "NYLifeandHealth/Chapter9/1. Intro and Terms.md",
+      "NYLifeandHealth/Chapter9/A. Definitions of Perils.md",
+      "NYLifeandHealth/Chapter9/B. Principal Types of Losses and Benefits.md",
+      "NYLifeandHealth/Chapter9/C. Classes of Health Insurance Coverage.md",
+      "NYLifeandHealth/Chapter9/D. Limited Policies.md",
+      "NYLifeandHealth/Chapter9/E. Common Exclusions from Coverage.md",
+      "NYLifeandHealth/Chapter9/F. Licensee Responsibilities in Individual Health Insurance.md",
+      "NYLifeandHealth/Chapter9/G. Considerations in Replacing Health Insurance.md",
+      "NYLifeandHealth/Chapter9/H. Community Rating of Policies.md",
+      "NYLifeandHealth/Chapter9/Z. Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter10": [
+      "NYLifeandHealth/Chapter10/1. Intro and Terms.md",
+      "NYLifeandHealth/Chapter10/A. Required Provisions.md",
+      "NYLifeandHealth/Chapter10/B. Other Provisions.md",
+      "NYLifeandHealth/Chapter10/C. Other General Provisions.md",
+      "NYLifeandHealth/Chapter10/Z. Recap.md"
+    ],
+    "NYLifeandHealth/Chapter11": [
+      "NYLifeandHealth/Chapter11/1. Intro and Terms.md",
+      "NYLifeandHealth/Chapter11/A. Qualifying for Disability Benefits.md",
+      "NYLifeandHealth/Chapter11/B. Individual Disability Income Insurance.md",
+      "NYLifeandHealth/Chapter11/C. Group Disability Income Insurance.md",
+      "NYLifeandHealth/Chapter11/D. Business Disability Insurance.md",
+      "NYLifeandHealth/Chapter11/Z. Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter12": [
+      "NYLifeandHealth/Chapter12/A. Intro and Terms.md",
+      "NYLifeandHealth/Chapter12/A. Medical Plan Concepts.md",
+      "NYLifeandHealth/Chapter12/B. Types of Plans.md",
+      "NYLifeandHealth/Chapter12/C. Cost Containment in Health Care Delivery.md",
+      "NYLifeandHealth/Chapter12/D. New York Mandated Benefits and Offers (Individual and or Group).md",
+      "NYLifeandHealth/Chapter12/E. HIPAA Requirements.md",
+      "NYLifeandHealth/Chapter12/Z. Recap.md"
+    ],
+    "NYLifeandHealth/Chapter13": [
+      "NYLifeandHealth/Chapter13/1. Introduction.md",
+      "NYLifeandHealth/Chapter13/A. Overview.md",
+      "NYLifeandHealth/Chapter13/B. Metal Tiers.md",
+      "NYLifeandHealth/Chapter13/C. Medical Loss Ratio (MLR).md",
+      "NYLifeandHealth/Chapter13/D. Enrollment.md",
+      "NYLifeandHealth/Chapter13/E. Essential Health Benefits.md",
+      "NYLifeandHealth/Chapter13/F. Qualified Health Plan.md",
+      "NYLifeandHealth/Chapter13/G. Actuarial Value.md",
+      "NYLifeandHealth/Chapter13/H. Tax Credits.md",
+      "NYLifeandHealth/Chapter13/I. Individual Mandate and Shared Responsibility.md",
+      "NYLifeandHealth/Chapter13/J. Federal and State Health Insurance Marketplace.md",
+      "NYLifeandHealth/Chapter13/Z. Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter14": [
+      "NYLifeandHealth/Chapter14/1. Intro and Terms.md",
+      "NYLifeandHealth/Chapter14/A. Characteristics of Group Insurance.md",
+      "NYLifeandHealth/Chapter14/B. Types of Eligible Groups.md",
+      "NYLifeandHealth/Chapter14/C. Regulation of Employer Group Insurance Plans.md",
+      "NYLifeandHealth/Chapter14/D. Types of Funding and Administration.md",
+      "NYLifeandHealth/Chapter14/E. Marketing Considerations.md",
+      "NYLifeandHealth/Chapter14/F. Employer Group Health Insurance.md",
+      "NYLifeandHealth/Chapter14/G. Small Employer Medical Plans.md",
+      "NYLifeandHealth/Chapter14/Z. Recap.md"
+    ],
+    "NYLifeandHealth/Chapter15": [
+      "NYLifeandHealth/Chapter15/1. Intro.md",
+      "NYLifeandHealth/Chapter15/A. Benefits.md",
+      "NYLifeandHealth/Chapter15/B. New York Regulations and Required Provisions.md",
+      "NYLifeandHealth/Chapter15/Z. Chapter Recap.md"
+    ],
+    "NYLifeandHealth/Chapter16": [
+      "NYLifeandHealth/Chapter16/1. Intro.md",
+      "NYLifeandHealth/Chapter16/A. Workers Compensation.md",
+      "NYLifeandHealth/Chapter16/B. Social Security Disability.md",
+      "NYLifeandHealth/Chapter16/C. New York State Disability Benefits Law.md",
+      "NYLifeandHealth/Chapter16/D. Medicaid.md",
+      "NYLifeandHealth/Chapter16/E. Medicare.md",
+      "NYLifeandHealth/Chapter16/F. Flexible Spending Accounts (FSAs).md",
+      "NYLifeandHealth/Chapter16/G. Health Savings Accounts (HSAs).md",
+      "NYLifeandHealth/Chapter16/H. Healthy New York.md",
+      "NYLifeandHealth/Chapter16/Z. Chapter Recap.md"
+    ],
+    "NYLifeandHealth/KeyFacts": [
+      "NYLifeandHealth/KeyFacts/A. General Insurance.md",
+      "NYLifeandHealth/KeyFacts/B. Life Insurance Basics.md",
+      "NYLifeandHealth/KeyFacts/C. Life Insurance Policies.md",
+      "NYLifeandHealth/KeyFacts/O. Insurance Regulation.md",
+      "NYLifeandHealth/KeyFacts/D. Life Insurance Policy Provisions, Options and Riders.md",
+      "NYLifeandHealth/KeyFacts/E. Annuities.md",
+      "NYLifeandHealth/KeyFacts/F. Qualified Plans.md",
+      "NYLifeandHealth/KeyFacts/G. Federal Tax Considerations for Life Insurance and Annuities.md",
+      "NYLifeandHealth/KeyFacts/H. Health Insurance Basics.md",
+      "NYLifeandHealth/KeyFacts/I. Individual Health Insurance Policy General Provisions.md",
+      "NYLifeandHealth/KeyFacts/J. Disability Income and Related Insurance.md",
+      "NYLifeandHealth/KeyFacts/K. Medical Plans.md",
+      "NYLifeandHealth/KeyFacts/L. PPACA.md",
+      "NYLifeandHealth/KeyFacts/M. Group Accident and Health Insurance.md",
+      "NYLifeandHealth/KeyFacts/N. Insurance for Senior Citizens and Special Needs Individuals.md"
+    ],
+    "NYLifeandHealth/Misc": [
+      "NYLifeandHealth/Misc/Exam.md",
+      "NYLifeandHealth/Misc/NY_Series_17_55_Study_Guide.pdf",
+      "NYLifeandHealth/Misc/files.png",
+      "NYLifeandHealth/Misc/Video_location.md",
+      "NYLifeandHealth/Misc/Chapter 1 - Basic concepts.pptx",
+      "NYLifeandHealth/Misc/Chapter 2 - Types of life policies.pptx",
+      "NYLifeandHealth/Misc/Chapter 3 -Riders Provisions Options.pptx",
+      "NYLifeandHealth/Misc/Chapter 4 - Retirement plans.pptx",
+      "NYLifeandHealth/Misc/Chapter 5 - Insurability.pptx",
+      "NYLifeandHealth/Misc/Chapter 6 - Health Policies.pptx",
+      "NYLifeandHealth/Misc/Chapter 7 - Provisions.pptx",
+      "NYLifeandHealth/Misc/Chapter 10 - Transaction and Insurer.pptx",
+      "NYLifeandHealth/Misc/LTC.docx",
+      "NYLifeandHealth/Misc/Practice 1.docx",
+      "NYLifeandHealth/Misc/Priactice II.docx"
+    ],
+    "RESP": [
+      "RESP/resp_notes_1.jpg",
+      "RESP/resp_notes_2.jpg"
+    ],
+    "Training": [
+      "Training/2025OCT02",
+      "Training/2025OCT05"
+    ],
+    "Training/2025OCT02": [
+      "Training/2025OCT02/notes.md",
+      "Training/2025OCT02/Assuris.png"
+    ],
+    "Training/2025OCT05": [
+      "Training/2025OCT05/notes.md",
+      "Training/2025OCT05/disability",
+      "Training/2025OCT05/critical_illness",
+      "Training/2025OCT05/you_earn.png",
+      "Training/2025OCT05/foresters.png",
+      "Training/2025OCT05/universal.png",
+      "Training/2025OCT05/level.png",
+      "Training/2025OCT05/retained-earning.png",
+      "Training/2025OCT05/retained-earning-2.png"
+    ],
+    "Training/2025OCT05/critical_illness": [
+      "Training/2025OCT05/critical_illness/ciritcal_illness.png",
+      "Training/2025OCT05/critical_illness/ciritcal_illness_4.png",
+      "Training/2025OCT05/critical_illness/ciritcal_illness_list.png",
+      "Training/2025OCT05/critical_illness/ciritcal_illness_usage.png",
+      "Training/2025OCT05/critical_illness/ciritcal_illness_transition.png"
+    ],
+    "Training/2025OCT05/disability": [
+      "Training/2025OCT05/disability/RDSP_eligibility.png",
+      "Training/2025OCT05/disability/RDSP_options.png",
+      "Training/2025OCT05/disability/RDSPnRESP.png",
+      "Training/2025OCT05/disability/RDSP_lifetime_max.png",
+      "Training/2025OCT05/disability/CDSG.png",
+      "Training/2025OCT05/disability/DTC.png",
+      "Training/2025OCT05/disability/reasons_disablity_insurance.png"
+    ],
+    "Untitled": [
+      "Untitled/oct 30.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}
