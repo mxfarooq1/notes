@@ -1,0 +1,2 @@
+Life settlement brokers, intermediaries, and providers may not share information regarding the insured's identity, or financial or medical information, except as necessary to conduct the business of the transaction, unless permitted or required by law. All parties to the transaction must comply with privacy protections required by federal law. Should the laws of the state provide for greater confidentiality than public health law requires, the regulations of the state will govern.
+

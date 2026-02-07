@@ -1,0 +1,12 @@
+
+### 1. Benefits, Limitations and Exclusions
+
+When an agent attempts to replace the insured’s current health insurance policy with a new one, the agent needs to be careful not to mislead the insured or provide coverage that is to the insured’s detriment. It is the agent's responsibility to carefully compare the benefits, limitations and exclusions found in the current and the proposed replacement policy. **The agent also must make sure that the current policy is not cancelled before the new policy is issued.**
+
+Know This
+
+There cannot be any coverage gap between the existing coverage and replacement coverage.
+
+### 2. Licensee Liability for Errors and Omissions
+
+If an agent or broker engages in misrepresentation during the replacement of health insurance contracts, they may be exposed to errors and omissions liability, as well as having their insurance license suspended or revoked.

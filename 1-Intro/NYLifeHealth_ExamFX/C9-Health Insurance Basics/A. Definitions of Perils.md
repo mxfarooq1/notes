@@ -1,0 +1,15 @@
+
+
+There are two major causes of loss (perils) under a health insurance policy. Policies may cover both accident and sickness or accident only.
+
+### 1. Accidental Injury
+
+**Accidental bodily injury** is an unforeseen and unintended injury that resulted from an accident rather than a sickness.
+
+### 2. Sickness
+
+**Sickness** is normally defined as an illness that first manifests itself while the policy is in force. The majority of health insurance claims result from sickness rather than accidental injury. An emergency medical condition is one which is so severe in pain or symptoms that if not treated quickly and properly could cause serious bodily harm, or possibly death.
+
+Know This
+
+The two major perils covered in health insurance policies are accidental bodily injury and sickness.

@@ -1,0 +1,9 @@
+This chapter provided an overview of the Patient Protection and Affordable Care Act (PPACA), its coverage options and required benefits. Let's recap them:
+
+|   |   |
+|---|---|
+|**AFFORDABLE CARE ACT (ACA)**|   |
+|**Features and Coverages**|- Mandates preventive, educational, and community based health care<br>- Premium rates may be based on geographic rating area, family composition, age, and tobacco use<br>- Children are covered until age 26<br>- Coverage for pre-existing conditions<br>- Enrollment period: November 1 to January 31<br>- Metal levels/plan covers:<br>    - Bonze 60%<br>    - Silver 70%<br>    - Gold 80%<br>    - Platinum 90%<br>- _Grandfathered plan_ - existing provisions that are not required to change in response to new laws, restrictions or requirements|
+|**Eligibility**|- Must be a U.S. citizen or national or be lawfully present in the United States<br>- Must live in the United States<br>- Cannot be currently incarcerated|
+|****Essential Health Benefits****|10 essential benefits:<br><br>- Ambulatory patient services<br>- Emergency services<br>- Hospitalization<br>- Pregnancy, maternity and newborn care<br>- Mental health and substance use<br>- Prescription drugs<br>- Rehabilitative and habilitative services and devices<br>- Laboratory services<br>- Preventive and wellness services and chronic disease management<br>- Pediatric services, including oral and vision care|
+|**Insurance Exchanges (Marketplace)**|- Federally-facilitated marketplace<br>- State exchanges<br>- SHOP<br>- Helps applicants to:<br>    - Compare private health plans<br>    - Obtain information about health coverage options and eligibility or tax credits<br>    - Enroll in an appropriate health plan|

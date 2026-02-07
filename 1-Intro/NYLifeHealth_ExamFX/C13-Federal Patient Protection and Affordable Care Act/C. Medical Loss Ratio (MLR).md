@@ -1,0 +1,3 @@
+The **Medical Loss Ratio (MLR)** indicates how much of the health coverage premium must go toward actual medical care, as opposed to administrative costs and profits. Under the Affordable Care Act, consumers will receive more value for their premium dollar because insurance companies are required to spend 80% (individual and small group markets) or 85% (large group markets) of premium dollars on medical care and health care quality improvement, rather than on administrative costs. That means that only 15%-20% of the premium may be applied to administrative expenses.
+
+Insurers who fail the MLR test for a calendar year will be required to provide a rebate to their customers and refund excess premiums.
