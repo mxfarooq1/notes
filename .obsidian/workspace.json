@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clients/waqar-bhai/No-Lapse Guarantee UL II.md",
+                "file": "2-Courses/SIE_Orielly/Part 3/Chapter 11 - Options - The Right to Buy or Sell at a Fixed Price.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "No-Lapse Guarantee UL II"
+              "title": "Chapter 11 - Options - The Right to Buy or Sell at a Fixed Price"
+            }
+          },
+          {
+            "id": "315e5615a4ea8b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Courses/SIE_Orielly/Part 2/2 - Mastering Basic Security Investments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Mastering Basic Security Investments"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "right": {
     "id": "e8e6e55e76d49fde",
@@ -180,52 +195,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "22537dc0d394e587",
+  "active": "315e5615a4ea8b6c",
   "lastOpenFiles": [
+    "2-Courses/SIE_Orielly/Part 5 - Practise Exam/Practice Exam 2 - Answers.md",
+    "2-Courses/SIE_Orielly/Part 5 - Practise Exam/Practice Exam 2.md",
+    "2-Courses/SIE_Orielly/Part 5 - Practise Exam/Practice Exam 1 - Answers.md",
+    "2-Courses/SIE_Orielly/Part 5 - Practise Exam/5 - Putting Your Knowledge to Good Use - Practice Exams.md",
+    "2-Courses/SIE_Orielly/Part 5 - Practise Exam/Practice Exam 1.md",
+    "2-Courses/SIE_Orielly/Part 4/Chapter 16 - No Fooling Around - Rules and Regulations.md",
+    "2-Courses/SIE_Orielly/Part 5 - Practise Exam",
+    "2-Courses/SIE_Orielly/Part 4/Chapter 15 - Making Sure the IRS Gets Its Share.md",
+    "2-Courses/SIE_Orielly/Part 4/Chapter 14 - Going to Market - Orders and Trades.md",
+    "2-Courses/SIE_Orielly/Part 4/Chapter 13 - Doing a Little Market Research - Securities Analysis.md",
+    "2-Courses/SIE_Orielly/Part 4/Chapter 12 - Playing Nicely - Serving Your Customers and Following the Rules.md",
+    "2-Courses/SIE_Orielly/Part 4/4 - Playing Nicely - Serving Your Customers and Following the Rules.md",
+    "2-Courses/SIE_Orielly/Part 3/3 - Delving Deeper - Security Investments with a Twist.md",
+    "2-Courses/SIE_Orielly/Part 4",
+    "2-Courses/SIE_Orielly/Part 3/Chapter 11 - Options - The Right to Buy or Sell at a Fixed Price.md",
+    "2-Courses/SIE_Orielly/Part 3/Chapter 10 - Working with Direct Participation Programs and REITs.md",
+    "2-Courses/SIE_Orielly/Part 3/Chapter 9 - Delivering Diversification with Packaged Securities.md",
+    "2-Courses/SIE_Orielly/Part 2/2 - Mastering Basic Security Investments.md",
+    "2-Courses/SIE_Orielly/Part 2/Chapter 6 - Corporate Ownership - Equity Securities.md",
+    "2-Courses/SIE_Orielly/Part 3",
+    "2-Courses/SIE_Orielly/Part 2/Chapter 8 - Municipal Bonds - Local Government Securities.md",
+    "2-Courses/SIE_Orielly/Part 2/Chapter 7 - Debt Securities - Corporate and U.S. Government Loans.md",
+    "2-Courses/SIE_Orielly/Part 2/Chapter 5 - Underwriting Securities.md",
+    "1-Intro/Nationwide-AML/3-MoneyLaundering-Placement.png",
+    "2-Courses",
+    "1-Intro/Nationwide-AML/2-OFAC.png",
+    "1-Intro/Nationwide-AML/1-AML_legislation.png",
+    "1-Intro/TFA_Department_Contact_Information.pdf",
+    "1-Intro/Long-Term Care Insurance 8-Hour Course.pdf",
+    "1-Intro/1-WFG.md",
+    "3-Products/PacificLife/LFC3674_Promise_GUL_CA.pdf",
+    "2-Courses/SIE_Orielly/Part 2",
+    "2-Courses/SIE_Orielly",
+    "Clients/waqar-bhai/No-Lapse Guarantee UL II.md",
     "Clients/waqar-bhai/Waqar Ehsan Illustration.pdf",
     "Clients/waqar-bhai/Waqar bhai.md",
     "Clients/waqar-bhai/CRUMP.jpg",
     "Clients/waqar-bhai/guaranteed.jpg",
     "Meeting notes/guranteed life insurance.md",
-    "1-Intro/1-WFG.md",
-    "Clients/waqar-bhai/policy_8000640867.pdf",
-    "Clients/waqar-bhai/waqar_bhai.pdf",
-    "3-Products/MutualofOmaha/Life Insurance Product Portfolio as of 4.2026.pdf",
-    "3-Products/MutualofOmaha/Living Promise Highlight Sheet - ALL OTHER STATES.pdf",
-    "3-Products/MutualofOmaha/MutualCare Solutions Product Guide.pdf",
-    "3-Products/MutualofOmaha/MutualCare Solutions Underwriting Guide.pdf",
-    "3-Products/MutualofOmaha/Express Products Reference Guide - Simplified Underwriting.pdf",
-    "3-Products/PacificLife/LFC3674_Promise_GUL_CA.pdf",
     "3-Products/NW_IUL3/NW_IUL3-2.png",
     "3-Products/NW_IUL3/NW_IUL3-1.png",
     "4-Topics/rule_of_72.png",
     "4-Topics/rule_of_72-1.png",
     "4-Topics/Securities License/Securities License.md",
-    "4-Topics/Securities License/TFA_Non-Registered_Associate_Application.pdf",
     "4-Topics/whole-life.md",
-    "1-Intro/NYLifeHealth_ExamFX/C3-Life Insurance Policies/Z. Chapter Recap.md",
-    "1-Intro/NYLifeHealth_ExamFX/C3-Life Insurance Policies/C. Flexible Premium Policies.md",
-    "1-Intro/NYLifeHealth_ExamFX/C3-Life Insurance Policies/B. Whole Life Insurance.md",
-    "Meeting notes/2026may.md",
-    "Meeting notes/May 1 @ 3pm.md",
-    "5-Documents/Non-PDFs.md",
-    "Clients/waqar-bhai/NW-GLT-20.png",
-    "Clients/waqar-bhai/NW-GLT-15.png",
-    "Clients/waqar-bhai/NW-GLT-10.png",
-    "Clients/waqar-bhai/NW-GLT-30.png",
-    "Clients/waqar-bhai/No-Lapse Guarantee UL II.md",
-    "Clients/waqar-bhai/Guaranteed Level TErm.md",
-    "1-Intro/NYLifeHealth_ExamFX/C5-Annuities/A. Annuity Principles and Concepts.md",
-    "1-Intro/NYLifeHealth_ExamFX/C5-Annuities/1. Intro and Terms.md",
-    "Clients/mohiudidn-bhai/mohiuddin.md",
-    "4-Topics/Com.md",
-    "Meeting notes/2026-01/20260128/20260128.md",
-    "4-Topics/Canada/Segregated funds 1.md",
-    "4-Topics/USA/529 savings account.md",
-    "2-Events/raja Dhaliwal.md",
-    "2-Events/apr 17.md",
-    "Meeting notes/2026-01/20260120.md",
-    "Meeting notes/2026-01/20260115.md",
-    "Meeting notes/2026-01/20260114.md"
+    "Clients/waqar-bhai/NW-GLT-20.png"
   ]
 }
